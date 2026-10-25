@@ -1,4 +1,5 @@
-.github/workflows/build.ymlname: Build iesu VST3
+.github/workflows/build.yml
+name: Build iesu VST3
 on:
   workflow_dispatch:
   push:
